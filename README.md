@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saachivar
-- 👀 I’m interested in web development with React and data analytics
-- 🌱 I’m currently learning how to use React to develop webpages
+- 👀 I’m interested in data science and web development
+- 🌱 I’m currently learning how to use machine learning to make predictions
 - 📫 Reach me at saachi.varshney@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like fish 
