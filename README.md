@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use machine learning to make predictions
 - 📫 Reach me at saachi.varshney@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like fish 
+- ⚡ Fun fact: I like puzzles
 
 <!---
 saachivar/saachivar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
