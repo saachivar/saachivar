@@ -1,4 +1,4 @@
-# Hey, I'm Saachi 👋
+# Hi, I'm Saachi!
 
 **Computer Science @ UGA | Morehead Honors College**  
 **Software Engineering & Technology Consulting**  
